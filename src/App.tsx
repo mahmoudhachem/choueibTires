@@ -8,12 +8,12 @@ import "./App.css";
 
 const images = [
   process.env.PUBLIC_URL + "/images/photo1.jpg",
-  process.env.PUBLIC_URL + "/images/photo2.jpg",
-  process.env.PUBLIC_URL + "/images/photo3.jpg",
-  process.env.PUBLIC_URL + "/images/photo4.jpg",
-  process.env.PUBLIC_URL + "/images/photo5.jpg",
+  process.env.PUBLIC_URL + "/images/photo.jpg",
+  process.env.PUBLIC_URL + "/images/phot.jpg",
+  process.env.PUBLIC_URL + "/images/pho.jpg",
+  process.env.PUBLIC_URL + "/images/ph.jpg",
   process.env.PUBLIC_URL + "/images/photo6.jpg",
-  process.env.PUBLIC_URL + "/images/photo7.jpg",
+  process.env.PUBLIC_URL + "/images/p.jpg",
 ];
 
 const buttons = [
